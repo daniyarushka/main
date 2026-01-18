@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<meta charset="UTF-8" />
+	<title>daniyarushQA</title>
+	<link rel="stylesheet" href="main.css">
+	
+</head>
+
+<body class="container">
+		<h1>Султанов Данияр</h1>
+
+		<div class="item">
+			<img class="photo" src="me.png" width="170" height="170" alt="фото">
+		</div>
+
+			<p>24 года, официально жених</p>
+
+			<h2>Обо мне</h2>
+
+			<div class="contacts">
+
+				<a href="http://t.me/daniyarushka1">telegram</a> 
+				<br>
+				<a href="mailto:daniyar.sultanov.012@gmail.com">email</a>
+				<br>
+				<a href="https:">github.com</a>
+			</div>
+				<button type="button">Связаться со мной</button>
+				<script type="text/javascript" src="js.js"></script>
+
+</body>
+
+</html>
