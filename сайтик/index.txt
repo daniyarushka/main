@@ -3,7 +3,7 @@
 <head> 
 	<meta charset="UTF-8" />
 	<title>daniyarushQA</title>
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="my_css.css">
 	
 </head>
 
@@ -11,23 +11,37 @@
 		<h1>Султанов Данияр</h1>
 
 		<div class="item">
-			<img class="photo" src="me.png" width="170" height="170" alt="фото">
+			<img class="photo" src="daniyar.jpg" width="170" height="170" alt="Это если что не я">
 		</div>
 
-			<p>24 года, официально жених</p>
+			<p>
+			24 года, официально жених
+			<br>
+			<br>
+			<em>без 5 минут qa</em>
+			<br>
+			<strong>Сегодня на игру не поеду</strong>
+			</p>
 
 			<h2>Обо мне</h2>
 
 			<div class="contacts">
 
-				<a href="http://t.me/daniyarushka1">telegram</a> 
+				<a href="http://t.me/daniyarushka1">Телега</a> 
 				<br>
-				<a href="mailto:daniyar.sultanov.012@gmail.com">email</a>
+				<a href="mailto:daniyar.sultanov.012@gmail.com">Почта</a>
 				<br>
-				<a href="https:">github.com</a>
+				<a href="https://namedb.ru/assets/uploads/2016/04/danil.jpg">хахахаххах</a>
 			</div>
+				<br>
+				<br>
 				<button type="button">Связаться со мной</button>
 				<script type="text/javascript" src="js.js"></script>
+			
+			<ul>
+				<li><span class="blue-text">Какой-то синий жирный текст</span></li>
+				<li><span class="green-text">Какой-то зеленый текст</span></li>
+			</ul>
 
 </body>
 
